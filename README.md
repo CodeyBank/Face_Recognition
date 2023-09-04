@@ -1,5 +1,5 @@
-## facial-recognition-using-open-cv
-# My first attempt at facial recognition
+## facial recognition using OpenCV.
+
 
 - Install openCV using pip installer 
 
